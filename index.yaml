@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   plant-manager:
   - apiVersion: v2
+    appVersion: 79fc598
+    created: "2021-05-06T05:26:08.707035896Z"
+    description: Helm chart for ems-plant-manager-service
+    digest: cf137297ee3dd4159e5b10042c3e8f0bd548bcbd8e425c6087b5293457f1e19b
+    name: plant-manager
+    type: application
+    urls:
+    - plant-manager-0.0.1-1620278657-79fc598.tgz
+    version: 0.0.1-1620278657-79fc598
+  - apiVersion: v2
     appVersion: 969d755
-    created: "2021-05-05T21:39:55.698985313Z"
+    created: "2021-05-06T05:26:08.699756313Z"
     description: Helm chart for ems-plant-manager-service
     digest: 7514e7722684df294e8ba0248d62c2ebf0f58d598d774890c938af84324cf808
     name: plant-manager
@@ -13,7 +23,7 @@ entries:
     version: 0.0.1-1620250701-969d755
   - apiVersion: v2
     appVersion: 81f07db
-    created: "2021-05-05T21:39:55.698249904Z"
+    created: "2021-05-06T05:26:08.699126289Z"
     description: Helm chart for ems-plant-manager-service
     digest: 2f20dacefcf774923067c7ffe79d14a26c3ce70f8da7e05c8ba217acacd12390
     name: plant-manager
@@ -23,7 +33,7 @@ entries:
     version: 0.0.1-1620249785-81f07db
   - apiVersion: v2
     appVersion: 27f44ee
-    created: "2021-05-05T21:39:55.697605296Z"
+    created: "2021-05-06T05:26:08.698490464Z"
     description: Helm chart for ems-plant-manager-service
     digest: 7437d398c9f8f74411d4885a00327e469112fe0372d5729c3171ad28827162da
     name: plant-manager
@@ -33,7 +43,7 @@ entries:
     version: 0.0.1-1620248203-27f44ee
   - apiVersion: v2
     appVersion: 82ec8b1
-    created: "2021-05-05T21:39:55.696992288Z"
+    created: "2021-05-06T05:26:08.697829239Z"
     description: Helm chart for ems-plant-manager-service
     digest: 20fa5fdc8c7f7d82b8f561b1038a047f7c43333e18117b816147fd6fc0e8161f
     name: plant-manager
@@ -43,7 +53,7 @@ entries:
     version: 0.0.1-1620247354-82ec8b1
   - apiVersion: v2
     appVersion: 5dd6cd0
-    created: "2021-05-05T21:39:55.696288879Z"
+    created: "2021-05-06T05:26:08.697112711Z"
     description: Helm chart for ems-plant-manager-service
     digest: 48f0d70592af5eba7b5dc24dba520fb3de4b3db45875ba5111d60c1b5663c105
     name: plant-manager
@@ -51,4 +61,4 @@ entries:
     urls:
     - plant-manager-0.0.1-1620247228-5dd6cd0.tgz
     version: 0.0.1-1620247228-5dd6cd0
-generated: "2021-05-05T21:39:55.695282167Z"
+generated: "2021-05-06T05:26:08.696181675Z"
