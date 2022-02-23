@@ -3,7 +3,7 @@ entries:
   ovh-dns-updater:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-02-23T12:47:29.404571659Z"
+    created: "2022-02-23T12:51:04.238300779Z"
     description: A Helm chart for Kubernetes
     digest: 829d0795f59d9ee6b89b6463931e2ad524fd2b38594505816065111b44e0b612
     name: ovh-dns-updater
@@ -13,7 +13,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 7f8db28
-    created: "2022-02-23T12:47:29.404093338Z"
+    created: "2022-02-23T12:51:04.237872876Z"
     description: A Helm chart for Kubernetes
     digest: 666a324dbef36ffea412debe168195e3195ba63e6fa5d1c8e8b8cca30b04333c
     name: ovh-dns-updater
@@ -23,7 +23,7 @@ entries:
     version: 1.0.0-1620511607-7f8db28
   - apiVersion: v2
     appVersion: e1a6ee6
-    created: "2022-02-23T12:47:29.403561114Z"
+    created: "2022-02-23T12:51:04.237263271Z"
     description: A Helm chart for Kubernetes
     digest: 3b6d19093077ea75da63e67115f7293df5f0ea3c18c36695c9294660105c9492
     name: ovh-dns-updater
@@ -33,7 +33,7 @@ entries:
     version: 1.0.0-1620511293-e1a6ee6
   - apiVersion: v2
     appVersion: cbbe8b3
-    created: "2022-02-23T12:47:29.40301499Z"
+    created: "2022-02-23T12:51:04.236756567Z"
     description: A Helm chart for Kubernetes
     digest: 5476f849b205ca060d8bb6ff149c84befeff36f255ae14cef2a96c6e16ead9ca
     name: ovh-dns-updater
@@ -43,7 +43,7 @@ entries:
     version: 1.0.0-1620510939-cbbe8b3
   - apiVersion: v2
     appVersion: 6966bcc
-    created: "2022-02-23T12:47:29.402502567Z"
+    created: "2022-02-23T12:51:04.236222762Z"
     description: A Helm chart for Kubernetes
     digest: 49d4d99d4c49ed83ec05c5bc33ffefd91b78b60ce0bc14b2c82fd1e3bea06ce1
     name: ovh-dns-updater
@@ -53,7 +53,7 @@ entries:
     version: 0.0.1-1620510002-6966bcc
   - apiVersion: v2
     appVersion: 4f4dce7
-    created: "2022-02-23T12:47:29.401801235Z"
+    created: "2022-02-23T12:51:04.235463156Z"
     description: A Helm chart for Kubernetes
     digest: 6b6b018a5f0fe8b9b31bdd3d84ac181e38c0b47a64eccdbe6518cb629227c3aa
     name: ovh-dns-updater
@@ -63,7 +63,7 @@ entries:
     version: 0.0.1-1620509316-4f4dce7
   - apiVersion: v2
     appVersion: 31a2bc0
-    created: "2022-02-23T12:47:29.401140406Z"
+    created: "2022-02-23T12:51:04.234914052Z"
     description: A Helm chart for Kubernetes
     digest: 34bb6d870453dae0d5b36e6999929bdc57cf4dfde31f025ddfc9a0508a8baf96
     name: ovh-dns-updater
@@ -74,7 +74,7 @@ entries:
   plant-manager:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-02-23T12:47:29.409258369Z"
+    created: "2022-02-23T12:51:04.241642805Z"
     description: Helm chart for ems-plant-manager-service
     digest: f5e76587e0164c50ae0e5530274fc25f1b1a8943d5cf30487c934cc46f842ac3
     name: plant-manager
@@ -84,7 +84,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 79fc598
-    created: "2022-02-23T12:47:29.408646741Z"
+    created: "2022-02-23T12:51:04.241172602Z"
     description: Helm chart for ems-plant-manager-service
     digest: cf137297ee3dd4159e5b10042c3e8f0bd548bcbd8e425c6087b5293457f1e19b
     name: plant-manager
@@ -94,7 +94,7 @@ entries:
     version: 0.0.1-1620278657-79fc598
   - apiVersion: v2
     appVersion: 969d755
-    created: "2022-02-23T12:47:29.408017313Z"
+    created: "2022-02-23T12:51:04.240713898Z"
     description: Helm chart for ems-plant-manager-service
     digest: 7514e7722684df294e8ba0248d62c2ebf0f58d598d774890c938af84324cf808
     name: plant-manager
@@ -104,7 +104,7 @@ entries:
     version: 0.0.1-1620250701-969d755
   - apiVersion: v2
     appVersion: 81f07db
-    created: "2022-02-23T12:47:29.407132374Z"
+    created: "2022-02-23T12:51:04.240243694Z"
     description: Helm chart for ems-plant-manager-service
     digest: 2f20dacefcf774923067c7ffe79d14a26c3ce70f8da7e05c8ba217acacd12390
     name: plant-manager
@@ -114,7 +114,7 @@ entries:
     version: 0.0.1-1620249785-81f07db
   - apiVersion: v2
     appVersion: 27f44ee
-    created: "2022-02-23T12:47:29.40638474Z"
+    created: "2022-02-23T12:51:04.239781691Z"
     description: Helm chart for ems-plant-manager-service
     digest: 7437d398c9f8f74411d4885a00327e469112fe0372d5729c3171ad28827162da
     name: plant-manager
@@ -124,7 +124,7 @@ entries:
     version: 0.0.1-1620248203-27f44ee
   - apiVersion: v2
     appVersion: 82ec8b1
-    created: "2022-02-23T12:47:29.405797614Z"
+    created: "2022-02-23T12:51:04.239305587Z"
     description: Helm chart for ems-plant-manager-service
     digest: 20fa5fdc8c7f7d82b8f561b1038a047f7c43333e18117b816147fd6fc0e8161f
     name: plant-manager
@@ -134,7 +134,7 @@ entries:
     version: 0.0.1-1620247354-82ec8b1
   - apiVersion: v2
     appVersion: 5dd6cd0
-    created: "2022-02-23T12:47:29.405173686Z"
+    created: "2022-02-23T12:51:04.238799483Z"
     description: Helm chart for ems-plant-manager-service
     digest: 48f0d70592af5eba7b5dc24dba520fb3de4b3db45875ba5111d60c1b5663c105
     name: plant-manager
@@ -145,7 +145,7 @@ entries:
   samba4:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2022-02-23T12:47:29.414253192Z"
+    created: "2022-02-23T12:51:04.24479333Z"
     description: A Samba Helm chart for Kubernetes
     digest: 0aec0f62ff52d88736266e0c598d177bb5e1bce610145fdb911a0df6c395102f
     name: samba4
@@ -154,7 +154,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2022-02-23T12:47:29.413296249Z"
+    created: "2022-02-23T12:51:04.244351927Z"
     description: A Samba Helm chart for Kubernetes
     digest: f01dff8fcfc86ee206c4acd9b72139ee987b269b1c375098b8a0512646758a8d
     name: samba4
@@ -163,7 +163,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 6a35681
-    created: "2022-02-23T12:47:29.412259303Z"
+    created: "2022-02-23T12:51:04.243889223Z"
     description: A Samba Helm chart for Kubernetes
     digest: 298da0144591e5a4da2b33f4195fbe03a608903b07a92fc7e050fe27b3a226c6
     name: samba4
@@ -172,7 +172,7 @@ entries:
     version: 0.0.2-1637697691-6a35681
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2022-02-23T12:47:29.411666076Z"
+    created: "2022-02-23T12:51:04.243028516Z"
     description: A Samba Helm chart for Kubernetes
     digest: 4e76f6bf18f8f25cfb8c1b500dbc52159be951f031f69ddf212e023c05458f1e
     name: samba4
@@ -181,7 +181,7 @@ entries:
     version: 0.0.1
   - apiVersion: v1
     appVersion: fbe8c97
-    created: "2022-02-23T12:47:29.411031048Z"
+    created: "2022-02-23T12:51:04.242565113Z"
     description: A Samba Helm chart for Kubernetes
     digest: b94d79331874c84d4c241a28b43a6820e7f041b084c681212a0520c24bbf5f0b
     name: samba4
@@ -190,7 +190,7 @@ entries:
     version: 0.0.1-1637697367-fbe8c97
   - apiVersion: v1
     appVersion: "9827792"
-    created: "2022-02-23T12:47:29.409881397Z"
+    created: "2022-02-23T12:51:04.242104309Z"
     description: A Samba Helm chart for Kubernetes
     digest: 42feb4f3837ba525f1f0d4b5cbf2579f36db8fb902bf1d8e2c11517560b7dd76
     name: samba4
@@ -199,8 +199,18 @@ entries:
     version: 0.0.1-1637694302-9827792
   shelly2prometheus:
   - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2022-02-23T12:51:04.245931539Z"
+    description: A Helm chart for Kubernetes
+    digest: 5e6b8bc4d7acd08871817c4091485927ad53e04201c36f6fa2adbade59f72e08
+    name: shelly2prometheus
+    type: application
+    urls:
+    - shelly2prometheus-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-02-23T12:47:29.415586152Z"
+    created: "2022-02-23T12:51:04.245559337Z"
     description: A Helm chart for Kubernetes
     digest: 7ab5d74a25540fc0ccd14e9d6e81c5248d1a13ed4ed33718ee7bf4fd5d9a72cb
     name: shelly2prometheus
@@ -210,7 +220,7 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 6f7563f
-    created: "2022-02-23T12:47:29.414917922Z"
+    created: "2022-02-23T12:51:04.245173933Z"
     description: A Helm chart for Kubernetes
     digest: fcd040ee3b70e5631c143c07094892fc880e16b8ef87bbe18989a7cb642d52d2
     name: shelly2prometheus
@@ -218,4 +228,4 @@ entries:
     urls:
     - shelly2prometheus-0.0.1-1645620100-6f7563f.tgz
     version: 0.0.1-1645620100-6f7563f
-generated: "2022-02-23T12:47:29.39989155Z"
+generated: "2022-02-23T12:51:04.23343504Z"
